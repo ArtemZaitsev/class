@@ -18,7 +18,6 @@ class Dog
 
     public function setName():string
     {
-
     }
 
     public function getName():string
